@@ -6,7 +6,6 @@ from sqlalchemy.orm import Session
 
 
 class RoutingSession(Session):
-    _engine_selector: Callable[[Boolean], Engine]
 
     def __init__(self, engine_selector: Callable[[Boolean], Engine], **kwargs):
         self._engine_selector = engine_selector

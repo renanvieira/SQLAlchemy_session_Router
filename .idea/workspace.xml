@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e0be183-d987-4a7d-88a8-3707a154a63c" name="Default Changelist" comment="" />
+    <list default="true" id="7e0be183-d987-4a7d-88a8-3707a154a63c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLAlchemy_session_router/routing_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQLAlchemy_session_router/routing_session.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SQLAlchemy_session_router/routing_session.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -46,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -102,13 +106,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/master_slave_router/router.py" />
         <option value="$PROJECT_DIR$/routing_session/version.py" />
-        <option value="$PROJECT_DIR$/SQLAlchemy_session_router/routing_session.py" />
         <option value="$PROJECT_DIR$/SQLAlchemy_session_router/version.py" />
         <option value="$PROJECT_DIR$/SQLAlchemy_session_router/__init__.py" />
         <option value="$PROJECT_DIR$/Makefile" />
@@ -117,6 +123,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/SQLAlchemy_session_router/routing_session.py" />
       </list>
     </option>
   </component>
@@ -126,12 +133,13 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="40" />
     <option name="width" value="1390" />
     <option name="height" value="1007" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -162,6 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -227,7 +236,7 @@
       <workItem from="1556563654632" duration="176000" />
       <workItem from="1556749090243" duration="34000" />
       <workItem from="1556803917185" duration="827000" />
-      <workItem from="1556914003358" duration="5225000" />
+      <workItem from="1556914003358" duration="5895000" />
     </task>
     <servers />
   </component>
@@ -264,7 +273,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6262000" />
+    <option name="totallyTimeSpent" value="6932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1020" extended-state="6" />
@@ -272,7 +281,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2289221" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2289221" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.41190198" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32905483" />
@@ -284,7 +293,7 @@
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32905483" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.53488374" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5367561" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32905483" />
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.32905483" />
@@ -343,16 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQLAlchemy_session_router/routing_session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -403,6 +402,16 @@
           <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLAlchemy_session_router/routing_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>

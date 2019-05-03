@@ -8,12 +8,12 @@ from SQLAlchemy_session_router import RoutingSession
 
 class RoutingSessionTestCase(TestCase):
 
-    def setUp(self) -> None:
+    def setUp(self):
         self.write_engine = Mock(Engine)
         self.read_engine = Mock(Engine)
         self.engine_registry = {"write_replica": self.write_engine, "read_replica": self.read_engine}
 
-    def tearDown(self) -> None:
+    def tearDown(self):
         self.write_engine = None
         self.read_engine = None
         self.engine_registry.clear()
